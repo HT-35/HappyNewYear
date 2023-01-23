@@ -4,13 +4,14 @@ body {
     position: relative;
     font-size: large;
     font-size: 20px;
+    overflow-x: hidden;
+    height: 500px;
 }
 
 .h1 {
     color: white;
     position: absolute;
     width: inherit;
-    height: inherit;
     top: 200px;
     left: 400px;
 }
